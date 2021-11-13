@@ -1,0 +1,33 @@
+/*body {
+	display: flex;
+	margin: 0;
+}
+div {
+    display: inline;
+    text-align: center;
+}
+.blue {
+	background: skyblue;
+	width: 70px;
+	height: 70px;
+    margin-left: 5px;
+}
+.green {
+	background: purple;
+	width: 100px;
+	height: 100px;
+    margin-left: 5px;
+}*/
+.blue {
+    background-color: #99c2ff;
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    
+}
+.green {
+    background-color: greenyellow;
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+}
